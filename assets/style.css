@@ -1,0 +1,37 @@
+  
+
+html,
+body,
+.wrapper {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.jumbotron {
+    background-color: skyblue;
+    text-align: center;
+    color: midnightblue
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header {
+    text-align: center;
+    padding: 0px;
+    padding-top: 0px;
+    color: hsl(206, 17%, 28%);
+}
+
+.card {
+  width: 200px;
+  height: 260px;
+  margin: 12px;
+  border: black;
+}
+
+.row {
+  position: relative;
+  white-space: pre-wrap;
+  height: 80px;
+  border-top: 0px solid black;
+}
