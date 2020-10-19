@@ -1,0 +1,11 @@
+.jumbotron {
+    background-color: transparent !important;
+}
+
+.timer {
+    background-color: white;
+    height: 50px;
+    width: 50px;
+    border-radius: 20px;
+    font-size: 20px;
+}
